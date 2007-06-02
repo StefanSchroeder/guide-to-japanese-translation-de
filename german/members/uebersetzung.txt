@@ -1,0 +1,11 @@
+Hinweise zur Übersetzung:
+
+- Die englische Version liegt direkt im Trunk-Verzeichnis. Ändert dort bitte nichts, sondern nur
+  im /german Unterverzeichnis.
+- Versucht bitte, die Begriffe einigermaßen konsistent zu verwenden.
+- Versucht den Titel der Seite, das Inhaltsverzeichnis (index.html) und die Frames-Navigationsleiste 
+  (menu.html) synchron zu halten. Es wäre z.B. schlecht, wenn index.html eine Seite als "Befehlsform"
+  und menu.html als "Kommando-Form" referenziert.
+- Links auf Seiten, die noch nicht übersetzt wurden, sollten auf das englische Original verweisen.
+  Da die englische Version ein Verzeichnis "tiefer" liegt, ist der Link von "xyz.html" auf "../xyz.html"
+  zu ändern.
