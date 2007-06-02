@@ -1,19 +1,19 @@
-Hallo, hier ist die Liste aller zu übersetzenden Seiten.
+Hallo, hier ist die Liste aller zu Eersetzenden Seiten.
 Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
-Übersetzer für die Seite sein wollt. Das heißt nicht, dass man keine Fehler
+Übersetzer fE die Seite sein wollt. Das heißt nicht, dass man keine Fehler
 etc. auf "fremden" Seiten korrigieren darf usw.
 
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
-Zu übersetzende Seiten unter 4. "Wesentliche Grammatik":
+Zu Eersetzende Seiten unter 4. "Wesentliche Grammatik":
 
-enduring.html (Andere Anwendungen der te-Form)
+enduring.html (Andere Anwendungen der te-Form) genetix
 potential.html (Die Potentialform)
 surunaru.html (Die Verwendung von suru und naru)
 conditional.html (Bedingungen)
-haveto.html (Formulierung von "müssen")
-desire.html (Wünschen und vorschlagen)
-quotation.html (Durchführen einer Aktion auf einem Nebensatz)
+haveto.html (Formulierung von "mEsen")
+desire.html (WEschen und vorschlagen)
+quotation.html (DurchfEren einer Aktion auf einem Nebensatz)
 try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun)
 favor.html (Geben und nehmen)
 requests.html (Bitten und auffordern)
