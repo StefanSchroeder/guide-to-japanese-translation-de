@@ -17,5 +17,5 @@ quotation.html (Durchführen einer Aktion auf einem Nebensatz)
 try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun)
 favor.html (Geben und nehmen)
 requests.html (Bitten und auffordern)
-numbers.html (Zahlen und Zählen)
-wrapup4.html (Abschluß des 4. Teils und weiteres Gobi)
+numbers.html (Zahlen und Zählen) - zwar fertig, aber ziemlich seltsame Wortwahl (Übersetzung ist nicht von mir...) 
+wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - Daniel, 70% fertig
