@@ -1,0 +1,27 @@
+Hier kommen Infos zur Bedienung von SVN und TortoiseSVN.
+
+Begriffe:
+checkout - der Inhalt des Repositories wird auf ein lokales Verzeichnis gespielt
+update - neue Daten vom Repository werden in das lokale Verzeichnis eingespielt.
+         Lokale Änderungen gehen dabei *nicht* verloren. Ist gleichzeitig im Repository 
+         und lokal an derselben Datei geändert worden, wird eventuell ein Konflikt gemeldet.
+         Es gibt Programme, die bei der "Konfliktlösung" helfen (für Windows z.B. WinMerge).
+         Man kann einzelne Dateien oder ganze Verzeichnisse (mit Unterverzeichnissen) updaten
+update clean copy - Ist die eigene Version einer Datei fubard (fucked up beyond any repair),
+         kann man mit einem clean copy update die Version vom Repository überspielen. 
+         Oder man löscht die "verunglückte" Datei einfach und macht ein update vom ganzen Verzeichnis
+commit - schreibt die lokalen Änderungen ins Repository. Bei jedem commit findet intern ein update
+         statt, so dass es auch hier zu Konflikten kommen kann
+add, remove - fügt eine Datei oder Verzeichnis zur *lokalen* Kopie hinzu oder löscht es. Es reicht nicht,
+         einfach ein Verzeichnis zu committen, eine neue Datei ist subversion noch nicht bekannt und
+         wird ignoriert. Ebenso reicht es nicht aus, eine lokale Datei zu löschen, subversion löscht
+         sie nicht automatisch, wenn das Verzeichnis committed wird. Also immer erst ein add oder remove
+         auf einer Datei (oder einem Verzeichnis) ausführen und dann ein commit (um die Änderung ins
+         Repository zu übertragen)
+
+Warnung:
+Die von subversion benötigten Informationen stehen in jedem Verzeichnis in einem Unterverzeichnis
+".svn" . Dieses bestimmt auch das Verzeichnis der jeweiligen Dateien im Repository. Das heißt, wenn
+man ein komplettes Verzeichnis inklusive .svn Unterverzeichnis an einen andere Stelle kopiert, wird trotzdem
+mit dem alten Verzeichnis im Repository abgeglichen. Das beste ist, das .svn Verzeichnis zu löschen und die Dateien an der neuen Stelle zu adden.
+
