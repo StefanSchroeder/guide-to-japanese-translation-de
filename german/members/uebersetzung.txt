@@ -6,6 +6,7 @@ Hinweise zur Übersetzung:
 - Versucht den Titel der Seite, das Inhaltsverzeichnis (index.html) und die Frames-Navigationsleiste 
   (menu.html) synchron zu halten. Es wäre z.B. schlecht, wenn index.html eine Seite als "Befehlsform"
   und menu.html als "Kommando-Form" referenziert.
+- Wenn ihr eine Seite übersetzt habt, checkt bitte, dass die Links von und zu den Nachbarseiten in Ordnung sind.
 - Links auf Seiten, die noch nicht übersetzt wurden, sollten auf das englische Original verweisen.
   Da die englische Version ein Verzeichnis "tiefer" liegt, ist der Link von "xyz.html" auf "../xyz.html"
   zu ändern.
