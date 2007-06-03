@@ -11,9 +11,9 @@ enduring.html (Andere Anwendungen der te-Form) genetix
 potential.html (Die Potentialform)
 surunaru.html (Die Verwendung von suru und naru)
 conditional.html (Bedingungen) - Richard (per mail)
-haveto.html (Formulierung von "mÅEsen")
-desire.html (WÅEschen und vorschlagen)
-quotation.html (DurchfÅEren einer Aktion auf einem Nebensatz)
+haveto.html (Formulierung von "muessen") - Richard
+desire.html (Wuenschen und vorschlagen)
+quotation.html (Durchfuehren einer Aktion auf einem Nebensatz)
 try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun)
 favor.html (Geben und nehmen)
 requests.html (Bitten und auffordern)
