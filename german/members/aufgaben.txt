@@ -1,11 +1,11 @@
-Hallo, hier ist die Liste aller zu Eersetzenden Seiten.
+Hallo, hier ist die Liste aller zu Uebersetzenden Seiten.
 Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
-Übersetzer fE die Seite sein wollt. Das heißt nicht, dass man keine Fehler
+Uebersetzer fuer die Seite sein wollt. Das heißt nicht, dass man keine Fehler
 etc. auf "fremden" Seiten korrigieren darf usw.
 
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
-Zu Eersetzende Seiten unter 4. "Wesentliche Grammatik":
+Zu Uebersetzende Seiten unter 4. "Wesentliche Grammatik":
 
 enduring.html (Andere Anwendungen der te-Form) genetix
 potential.html (Die Potentialform)
@@ -14,6 +14,7 @@ conditional.html (Bedingungen) - Richard (per mail)
 haveto.html (Formulierung von "muessen") - Richard
 desire.html (Wuenschen und vorschlagen)
 quotation.html (Durchfuehren einer Aktion auf einem Nebensatz)
+define.html (Definitionen)
 try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun)
 favor.html (Geben und nehmen)
 requests.html (Bitten und auffordern)
