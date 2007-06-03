@@ -58,5 +58,8 @@ Andere Befehle:
 
 Bei commit wollte subversion einen Editor gesetzt haben. Unter Windows ist ein einfaches 
   set EDITOR=notepad
-ausreichend.
+ausreichend. Nach Schlieﬂen des Editors kommt die Anzeige
+  Log message unchanged or not specified
+  a)bort, c)ontinue, e)dit
+Dann Option c ausw‰hlen.
 
