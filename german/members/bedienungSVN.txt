@@ -1,6 +1,8 @@
 Hier kommen Infos zur Bedienung von SVN und TortoiseSVN.
 
-Begriffe:
+Begriffe
+========
+
 checkout - der Inhalt des Repositories wird auf ein lokales Verzeichnis gespielt
 update - neue Daten vom Repository werden in das lokale Verzeichnis eingespielt.
          Lokale Änderungen gehen dabei *nicht* verloren. Ist gleichzeitig im Repository 
@@ -12,10 +14,10 @@ update clean copy - Ist die eigene Version einer Datei fubard (fucked up beyond 
          Oder man löscht die "verunglückte" Datei einfach und macht ein update vom ganzen Verzeichnis
 commit - schreibt die lokalen Änderungen ins Repository. Bei jedem commit findet intern ein update
          statt, so dass es auch hier zu Konflikten kommen kann
-add, remove - fügt eine Datei oder Verzeichnis zur *lokalen* Kopie hinzu oder löscht es. Es reicht nicht,
+add, delete - fügt eine Datei oder Verzeichnis zur *lokalen* Kopie hinzu oder löscht es. Es reicht nicht,
          einfach ein Verzeichnis zu committen, eine neue Datei ist subversion noch nicht bekannt und
          wird ignoriert. Ebenso reicht es nicht aus, eine lokale Datei zu löschen, subversion löscht
-         sie nicht automatisch, wenn das Verzeichnis committed wird. Also immer erst ein add oder remove
+         sie nicht automatisch, wenn das Verzeichnis committed wird. Also immer erst ein add oder delete
          auf einer Datei (oder einem Verzeichnis) ausführen und dann ein commit (um die Änderung ins
          Repository zu übertragen)
 
@@ -24,4 +26,35 @@ Die von subversion benötigten Informationen stehen in jedem Verzeichnis in einem
 ".svn" . Dieses bestimmt auch das Verzeichnis der jeweiligen Dateien im Repository. Das heißt, wenn
 man ein komplettes Verzeichnis inklusive .svn Unterverzeichnis an einen andere Stelle kopiert, wird trotzdem
 mit dem alten Verzeichnis im Repository abgeglichen. Das beste ist, das .svn Verzeichnis zu löschen und die Dateien an der neuen Stelle zu adden.
+
+
+Bedienung SVN (Kommandozeile)
+==============================
+
+Download unter http://subversion.tigris.org/project_packages.html
+Installieren und je nach Betriebssystem sicherstellen, dass subversion gefunden wird
+(z.B. unter Windows das subversion\bin-Verzeichnis an die Pfadvariable hängen)
+In der Kommandozeile sollte
+  svn --help 
+eine Liste der Befehle bringen und
+  svn --help Befehl
+Informationen zum entsprechenden Befehl
+
+Checkout:
+  svn checkout https://guide-to-japanese-translation-de.googlecode.com/svn/trunk/ --username deinUserName
+
+   (Wenn nach dem Passwort gefragt wird, benutze den Link
+   "When prompted, enter your generated googlecode.com password." von der Seite
+   http://code.google.com/p/guide-to-japanese-translation-de/source)
+
+
+Andere Befehle:
+
+  svn Befehl [Datei/Verzeichnis]
+  z.B.:
+  svn update    
+  svn update index.html   
+  svn add neueDatei.html
+  svn commit 
+
 
