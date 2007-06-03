@@ -47,7 +47,6 @@ Checkout:
    "When prompted, enter your generated googlecode.com password." von der Seite
    http://code.google.com/p/guide-to-japanese-translation-de/source)
 
-
 Andere Befehle:
 
   svn Befehl [Datei/Verzeichnis]
@@ -57,4 +56,7 @@ Andere Befehle:
   svn add neueDatei.html
   svn commit 
 
+Bei commit wollte subversion einen Editor gesetzt haben. Unter Windows ist ein einfaches 
+  set EDITOR=notepad
+ausreichend.
 
