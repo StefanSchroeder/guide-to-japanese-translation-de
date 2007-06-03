@@ -1,11 +1,11 @@
 a {
 	text-decoration:none;
-	color: rgb(51,51,221);
+	color: rgb(40,40,221);
 }
 
 a:visited {
 	text-decoration:none;
-	color:rgb(153,153,255);
+	color:rgb(120,120,255);
 }
 a:hover {
 	text-decoration:none;
@@ -14,11 +14,11 @@ a:hover {
 body {
 	font-family: "Luxi Sans", "Bitstream Vera Sans", "Lucida Grande", "Trebuchet MS", helvetica, verdana, arial, sans-serif;
 	margin: 1em;
-                background-image:url(background.png);
-	background-color: rgb(255,255,255);
+        background-image:url(background.png);
+	background-color: rgb(255,255,248);
 }
 h1 {
-	font-family: Times, serif; text-align: center; font-size: 1.7 em;
+	font-family: Times, serif; text-align: center; font-size: 1.7em;
 	color: rgb(0,0,128);
 }
 h2 {
@@ -30,7 +30,7 @@ h2 {
 	border-bottom: 1px #880000 groove;
 }
 h3 {
-	font-family: Times, serif; font-size: 1.2 em;
+	font-family: Times, serif; font-size: 1.2em;
 	color: rgb(0,0,128);
 	font-style: italic;
 	font-weight: bold;
@@ -114,7 +114,7 @@ strong {
 .footer p { margin: 0; }
 .popup {
 	cursor: help;
-	text-decoration: none;
+	text-decoration: none
 }
 span.popup:hover {
 	text-decoration:none;
@@ -125,8 +125,12 @@ visibility: hidden;
 }
 .bottom  {vertical-align: bottom }
 .top  {vertical-align: 50% }
-.answerline { border-bottom: 1px black solid; text-align: center; width: 11em}
+.answerline { border-bottom: 1px black solid; text-align: center; width: 10em}
 .menu {background-color: #FFFFDD; }
 .overline {text-decoration: overline; }
+th {background-color: #FFFFDD; }
 .empty {background-color: #EEEEEE; }
-.capt {background-color: #FFFFDD; }
+
+table {
+	empty-cells: hide;
+}
