@@ -8,10 +8,10 @@ Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier 
 Zu Uebersetzende Seiten unter 4. "Wesentliche Grammatik":
 
 enduring.html (Andere Anwendungen der te-Form) genetix
-potential.html (Die Potentialform)
+potential.html (Die Potentialform) Ÿbernehm ich Richard.
 surunaru.html (Die Verwendung von suru und naru)
 conditional.html (Bedingungen) - Richard (per mail)
-haveto.html (Formulierung von "muessen") - Richard
+haveto.html (Formulierung von "muessen") - Richard 100% fertig.
 desire.html (Wuenschen und vorschlagen)
 quotation.html (Durchfuehren einer Aktion auf einem Nebensatz)
 define.html (Definitionen)
