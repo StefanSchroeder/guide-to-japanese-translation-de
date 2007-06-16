@@ -8,11 +8,6 @@ Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier 
 Zu Uebersetzende Seiten unter 4. "Wesentliche Grammatik":
 
 enduring.html (Andere Anwendungen der te-Form) genetix
-potential.html (Die Potentialform) Ÿbernehm ich Richard.
-surunaru.html (Die Verwendung von suru und naru)
-conditional.html (Bedingungen) - Richard (per mail)
-haveto.html (Formulierung von "muessen") - Richard 100% fertig.
-desire.html (Wuenschen und vorschlagen)
 quotation.html (Durchfuehren einer Aktion auf einem Nebensatz)
 define.html (Definitionen)
 try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun)
@@ -20,3 +15,13 @@ favor.html (Geben und nehmen)
 requests.html (Bitten und auffordern)
 numbers.html (Zahlen und Zählen) - zwar fertig, aber ziemlich seltsame Wortwahl (Übersetzung ist nicht von mir...) 
 wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - Daniel, 70% fertig
+
+
+Fertig uebersetzt.
+potential.html (Die Potentialform)  100% Richard alias zongoku.
+haveto.html (Formulierung von "muessen") -100% Richard alias zongoku.
+conditional.html (Bedingungen) - 100% Richard alias zongoku.
+surunaru.html (Die Verwendung von suru und naru) 100% Richard alias zongoku.
+uebernehme 
+desire.html (Wuenschen und vorschlagen)
+
