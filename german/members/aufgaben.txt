@@ -13,6 +13,9 @@ requests.html (Bitten und auffordern)
 numbers.html (Zahlen und Z‰hlen) - zwar fertig, aber ziemlich seltsame Wortwahl (‹bersetzung ist nicht von mir...) 
 wrapup4.html (Abschluﬂ des 4. Teils und weiteres Gobi) - Daniel, 70% fertig
 
+Rootnode:
+sitze gerade an specialexp.html und dem Kausativ-Passiv Teil
+
 
 Fertig uebersetzt.
 potential.html (Die Potentialform)  100% Richard alias zongoku.
