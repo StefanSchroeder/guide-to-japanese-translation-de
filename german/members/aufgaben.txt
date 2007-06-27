@@ -5,31 +5,58 @@ etc. auf "fremden" Seiten korrigieren darf usw.
 
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
-Zu Uebersetzende Seiten unter 4. "Wesentliche Grammatik":
+Zu Uebersetzende Seiten unter Staffel 4. "Wesentliche Grammatik":
 
 enduring.html (Andere Anwendungen der te-Form) genetix
 
-requests.html (Bitten und auffordern)
-numbers.html (Zahlen und Zählen) - zwar fertig, aber ziemlich seltsame Wortwahl (Übersetzung ist nicht von mir...) 
 wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - Daniel, 70% fertig
 
-Rootnode:
-sitze gerade an specialexp.html und dem Kausativ-Passiv Teil
-
-
 Fertig uebersetzt.
-potential.html (Die Potentialform)  100% Richard alias zongoku.
-haveto.html (Formulierung von "muessen") -100% Richard alias zongoku.
-conditional.html (Bedingungen) - 100% Richard alias zongoku.
-surunaru.html (Die Verwendung von suru und naru) 100% Richard alias zongoku. 
-desire.html (Wuenschen und vorschlagen) 100% Richard alias zongoku.
-quotation.html (Durchfuehren einer Aktion auf einem Nebensatz) 100% Richard alias zongoku.
-define.html (Definitionen) 100% Richard alias zongoku.
-try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun) 100% Richard alias zongoku
+potential.html (Die Potentialform) 100% zongoku.
+haveto.html (Formulierung von "muessen") 100% zongoku.
+conditional.html (Bedingungen) - 100% zongoku.
+surunaru.html (Die Verwendung von suru und naru) 100% zongoku.
+desire.html (Wuenschen und vorschlagen) 100% zongoku.
+quotation.html (Durchfuehren einer Aktion auf einem Nebensatz) 100% zongoku.
+define.html (Definitionen) 100% zongoku.
+try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun) 100% zongoku
+favor.html (Geben und nehmen) 100% zongoku
+Übrigens hatte eine Datei gefehlt die ich vom Englischen in den Deutschen Trakt rueberkopiert habe.
+requests.html (Bitten und auffordern) 100% zongoku.
+numbers.html (Zahlen und Z0 hlen) 100% 2 durchgelesen zongoku.
 
-Ich uebernehme dann 
-favor.html (Geben und nehmen)
 
 
+Zu uebersetzende Seiten unter Staffel 5.
+unintended.html
+genericnoun.html
+certainty.html
+amount.html
+similar.html
+compare.html
+easyhard.html
+negverb2.html
+reasoning.html
+timeaction2.html
+nochange.html
+
+
+-------------
+Ich uebernehme dann. (Diese Datei fehlt im German Verzeichnis!
+Respekt- und Bescheidenheitsform = honorhum.html 45% zongoku.
+-------------
+Rootnode nobunaga.
+sitze gerade an 
+specialexp.html 
+causepass.html Kausativ-Passiv
+
+-------------
+Genetix.
+
+
+
+--------------
+Fertig von Staffel 5 waere:
+specialexp.html  = hatte schon jemand gemacht. 100% fertig und ueberlesen von zongoku.
 
 
