@@ -1,3 +1,9 @@
+Es hatten 33 Dateien gefehlt, die ich aus dem Englischen  in den Deutschen
+Bereich kopiert habe.  
+
+Nun kann es weiter gehen. Gezeichnet (zongoku).
+
+
 Hallo, hier ist die Liste aller zu Uebersetzenden Seiten.
 Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
 Uebersetzer fuer die Seite sein wollt. Das heißt nicht, dass man keine Fehler
@@ -5,13 +11,22 @@ etc. auf "fremden" Seiten korrigieren darf usw.
 
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
-Zu Uebersetzende Seiten unter Staffel 4. "Wesentliche Grammatik":
 
+Staffel 4  "Wesentliche Grammatik":
+====================================
+
+
+Zu Uebersetzende Seiten von Staffel 4.
+----------------------------------------
+Genetix:
 enduring.html (Andere Anwendungen der te-Form) genetix
-
+Daniel:
 wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - Daniel, 70% fertig
 
-Fertig uebersetzt.
+
+
+Fertig uebersetzt von Staffel 4.
+--------------------------------
 potential.html (Die Potentialform) 100% zongoku.
 haveto.html (Formulierung von "muessen") 100% zongoku.
 conditional.html (Bedingungen) - 100% zongoku.
@@ -25,14 +40,15 @@ favor.html (Geben und nehmen) 100% zongoku
 requests.html (Bitten und auffordern) 100% zongoku.
 numbers.html (Zahlen und Z0 hlen) 100% 2 durchgelesen zongoku.
 
+______________________________________________________________
 
+
+Staffel 5
+==========
 
 Zu uebersetzende Seiten unter Staffel 5.
-unintended.html
-genericnoun.html
-certainty.html
-amount.html
-similar.html
+----------------------------------------
+
 compare.html
 easyhard.html
 negverb2.html
@@ -40,23 +56,32 @@ reasoning.html
 timeaction2.html
 nochange.html
 
+-------------
+Zongoku:
+certainty.html 10%
+amount.html 10%
+similar.html 10%
 
 -------------
-Ich uebernehme dann. (Diese Datei fehlt im German Verzeichnis!
-Respekt- und Bescheidenheitsform = honorhum.html 45% zongoku.
--------------
-Rootnode nobunaga.
-sitze gerade an 
+Rootnode nobunaga:
 specialexp.html 
 causepass.html Kausativ-Passiv
 
 -------------
-Genetix.
+Genetix:
+
+
+
+-------------
+Daniel:
 
 
 
 --------------
-Fertig von Staffel 5 waere:
-specialexp.html  = hatte schon jemand gemacht. 100% fertig und ueberlesen von zongoku.
+Fertig Uebersetzt von Staffel 5:
+honorhum.html 100% zongoku.
+unintended.html 100% zongoku.
+genericnoun.html 100% zongoku.
+
 
 
