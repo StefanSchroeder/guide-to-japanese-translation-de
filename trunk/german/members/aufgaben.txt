@@ -83,5 +83,6 @@ honorhum.html 100% zongoku.
 unintended.html 100% zongoku.
 genericnoun.html 100% zongoku.
 
+Alle Dateien wurden auf Rechtschreibung ueberprueft. Nur jene die ihr am uebersetzen seid, nicht. 
 
 
