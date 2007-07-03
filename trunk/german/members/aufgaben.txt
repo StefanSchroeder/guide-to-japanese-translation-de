@@ -58,7 +58,7 @@ nochange.html
 
 -------------
 Zongoku:
-certainty.html 10%
+
 amount.html 10%
 similar.html 10%
 
@@ -82,6 +82,9 @@ Fertig Uebersetzt von Staffel 5:
 honorhum.html 100% zongoku.
 unintended.html 100% zongoku.
 genericnoun.html 100% zongoku.
+certainty.html 100% zongoku.
+
+
 
 Alle Dateien wurden auf Rechtschreibung ueberprueft. Nur jene die ihr am uebersetzen seid, nicht. 
 
