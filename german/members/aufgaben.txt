@@ -59,7 +59,6 @@ nochange.html
 -------------
 Zongoku:
 
-amount.html 10%
 similar.html 10%
 
 -------------
@@ -83,6 +82,7 @@ honorhum.html 100% zongoku.
 unintended.html 100% zongoku.
 genericnoun.html 100% zongoku.
 certainty.html 100% zongoku.
+amount.html 100% von zongoku.
 
 
 
