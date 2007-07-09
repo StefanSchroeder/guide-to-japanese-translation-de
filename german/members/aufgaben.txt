@@ -59,7 +59,7 @@ nochange.html
 -------------
 Zongoku:
 
-similar.html 10%
+similar.html 60%
 
 -------------
 Rootnode nobunaga:
@@ -87,5 +87,31 @@ amount.html 100% von zongoku.
 
 
 Alle Dateien wurden auf Rechtschreibung ueberprueft. Nur jene die ihr am uebersetzen seid, nicht. 
+
+
+--------------------------------
+Staffel 6
+=========
+advanced.html
+formal.html
+should.html
+even.html
+signs.html
+feasibility.html
+tendency.html
+adv_volitional.html
+covered.html
+close_actions.html
+othergrammar.html
+
+
+Staffel 7
+=========
+misc.html
+casual.html
+Kansai DialectVarious Conjugation Charts
+
+
+Und dann wärs schon gewesen denke ich. 
 
 
