@@ -54,10 +54,10 @@ nochange.html
 
 -------------
 Zongoku:
-compare.html
-easyhard.html
-negverb2.html
-reasoning.html
+compare.html 30%
+easyhard.html 30%
+negverb2.html 30%
+reasoning.html 30%
 
 
 -------------
