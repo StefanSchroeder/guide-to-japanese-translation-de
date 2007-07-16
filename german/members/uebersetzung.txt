@@ -10,3 +10,4 @@ Hinweise zur Übersetzung:
 - Links auf Seiten, die noch nicht übersetzt wurden, sollten auf das englische Original verweisen.
   Da die englische Version ein Verzeichnis "tiefer" liegt, ist der Link von "xyz.html" auf "../xyz.html"
   zu ändern.
+- Manuela hat vorgeschlagen, die männliche und weibliche Form abwechselnd zu nutzen
