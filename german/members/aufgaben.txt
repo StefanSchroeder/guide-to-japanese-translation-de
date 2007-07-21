@@ -54,7 +54,6 @@ nochange.html
 
 -------------
 Zongoku:
-compare.html 30%
 easyhard.html 30%
 negverb2.html 30%
 reasoning.html 30%
@@ -85,7 +84,7 @@ genericnoun.html 100% zongoku.
 certainty.html 100% zongoku.
 amount.html 100% von zongoku.
 similar.html 100% von zongoku.
-
+compare.html 100% von zongoku. 
 
 
 
