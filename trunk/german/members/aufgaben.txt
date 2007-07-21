@@ -61,7 +61,6 @@ reasoning.html 30%
 
 -------------
 Rootnode nobunaga:
-specialexp.html 
 causepass.html Kausativ-Passiv
 
 -------------
@@ -77,7 +76,7 @@ Daniel:
 --------------
 Fertig Uebersetzt von Staffel 5:
 ================================
-
+specialexp.html 100% fertig 10% von zongoku 90% von nobunaga.
 honorhum.html 100% zongoku.
 unintended.html 100% zongoku.
 genericnoun.html 100% zongoku.
