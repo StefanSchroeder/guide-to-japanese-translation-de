@@ -54,7 +54,6 @@ nochange.html
 
 -------------
 Zongoku:
-negverb2.html 30%
 reasoning.html 30%
 
 
@@ -84,7 +83,7 @@ amount.html 100% von zongoku.
 similar.html 100% von zongoku.
 compare.html 100% von zongoku. 
 easyhard.html 100% von zongoku.
-
+negverb2.html 100% von zongoku.
 
 Alle Dateien wurden auf Rechtschreibung ueberprueft. Nur jene die ihr am uebersetzen seid, nicht. 
 
