@@ -49,12 +49,12 @@ Staffel 5
 Zu uebersetzende Seiten unter Staffel 5.
 ----------------------------------------
 
-timeaction2.html
-nochange.html
 
 -------------
 Zongoku:
-reasoning.html 30%
+
+timeaction2.html
+nochange.html
 
 
 -------------
@@ -84,6 +84,8 @@ similar.html 100% von zongoku.
 compare.html 100% von zongoku. 
 easyhard.html 100% von zongoku.
 negverb2.html 100% von zongoku.
+reasoning.html 100% von zongoku.
+
 
 Alle Dateien wurden auf Rechtschreibung ueberprueft. Nur jene die ihr am uebersetzen seid, nicht. 
 
