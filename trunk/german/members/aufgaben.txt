@@ -1,9 +1,3 @@
-Es hatten 33 Dateien gefehlt, die ich aus dem Englischen  in den Deutschen
-Bereich kopiert habe.  
-
-Nun kann es weiter gehen. Gezeichnet (zongoku).
-
-
 Hallo, hier ist die Liste aller zu Uebersetzenden Seiten.
 Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
 Uebersetzer fuer die Seite sein wollt. Das heiﬂt nicht, dass man keine Fehler
@@ -53,7 +47,6 @@ Zu uebersetzende Seiten unter Staffel 5.
 -------------
 Zongoku:
 
-timeaction2.html
 nochange.html
 
 
@@ -85,10 +78,10 @@ compare.html 100% von zongoku.
 easyhard.html 100% von zongoku.
 negverb2.html 100% von zongoku.
 reasoning.html 100% von zongoku.
+timeaction2.html 100% von zongoku.
 
 
-Alle Dateien wurden auf Rechtschreibung ueberprueft. Nur jene die ihr am uebersetzen seid, nicht. 
-
+Alle Dateien wurden auf Rechtschreibung ueberprueft.
 
 --------------------------------
 Staffel 6
