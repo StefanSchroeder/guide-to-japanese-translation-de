@@ -46,8 +46,14 @@ Zu uebersetzende Seiten unter Staffel 5.
 
 -------------
 Zongoku:
+Um Staffel 4 und 5 abzuschliessen, uebernehme ich dann eure Uebersetzungen.  
+Ich habe bisher 23 Textseiten uebersetzt. Und es sind noch 15 zu tun. 
 
-nochange.html
+
+causepass.html Kausativ-Passiv
+enduring.html (Andere Anwendungen der te-Form)
+
+
 
 
 -------------
@@ -79,6 +85,7 @@ easyhard.html 100% von zongoku.
 negverb2.html 100% von zongoku.
 reasoning.html 100% von zongoku.
 timeaction2.html 100% von zongoku.
+nochange.html 100% von zongoku.
 
 
 Alle Dateien wurden auf Rechtschreibung ueberprueft.
