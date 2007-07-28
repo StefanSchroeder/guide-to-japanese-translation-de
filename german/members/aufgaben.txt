@@ -9,11 +9,9 @@ Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier 
 Staffel 4  "Wesentliche Grammatik":
 ====================================
 
-
-Zu Uebersetzende Seiten von Staffel 4.
+Wer hat noch was in Staffel 4 zu uebersetzen?
 ----------------------------------------
-Genetix:
-enduring.html (Andere Anwendungen der te-Form) genetix
+
 Daniel:
 wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - Daniel, 70% fertig
 
@@ -33,44 +31,13 @@ favor.html (Geben und nehmen) 100% zongoku
 Übrigens hatte eine Datei gefehlt die ich vom Englischen in den Deutschen Trakt rueberkopiert habe.
 requests.html (Bitten und auffordern) 100% zongoku.
 numbers.html (Zahlen und Z0 hlen) 100% 2 durchgelesen zongoku.
+enduring.html (Andere Anwendungen der te-Form) 100% zongoku.
+
 
 ______________________________________________________________
-
-
 Staffel 5
 ==========
 
-Zu uebersetzende Seiten unter Staffel 5.
-----------------------------------------
-
-
--------------
-Zongoku:
-Um Staffel 4 und 5 abzuschliessen, uebernehme ich dann eure Uebersetzungen.  
-Ich habe bisher 23 Textseiten uebersetzt. Und es sind noch 15 zu tun. 
-
-
-causepass.html Kausativ-Passiv
-enduring.html (Andere Anwendungen der te-Form) bereits 40% erledigt.
-
-
-
-
--------------
-Rootnode nobunaga:
-causepass.html Kausativ-Passiv
-
--------------
-Genetix:
-
-
-
--------------
-Daniel:
-
-
-
---------------
 Fertig Uebersetzt von Staffel 5:
 ================================
 specialexp.html 100% fertig 10% von zongoku 90% von nobunaga.
@@ -88,8 +55,18 @@ timeaction2.html 100% von zongoku.
 nochange.html 100% von zongoku.
 
 
-Alle Dateien wurden auf Rechtschreibung ueberprueft.
+Noch zu uebersetzen von Staffel 5?
+----------------------------------
+Zongoku:
+causepass.html Kausativ-Passiv
+Ich uebernehme deine Seite, damit diese Staffel auch fertig wird.
 
+Rootnode nobunaga:
+causepass.html Kausativ-Passiv
+
+
+
+Alle Dateien wurden auf Rechtschreibung ueberprueft.
 --------------------------------
 Staffel 6
 =========
@@ -106,13 +83,27 @@ close_actions.html
 othergrammar.html
 
 
+Wer uebersetzt was in Staffel 6?
+--------------------------------
+
+
+Zongoku:
+
+
+-------------
+Rootnode nobunaga:
+
+-------------
+Genetix:
+
+
+
+
+
+=======================
 Staffel 7
 =========
 misc.html
 casual.html
 Kansai DialectVarious Conjugation Charts
-
-
-Und dann wŠrs schon gewesen denke ich. 
-
 
