@@ -50,7 +50,7 @@ nochange.html 100% von zongoku.
 Noch zu uebersetzen von Staffel 5?
 ----------------------------------
 Zongoku:
-causepass.html Kausativ-Passiv 50% erledigt.
+causepass.html Kausativ-Passiv 70% erledigt.
 
 
 
