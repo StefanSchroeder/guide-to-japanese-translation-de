@@ -11,3 +11,15 @@ Hinweise zur Übersetzung:
   Da die englische Version ein Verzeichnis "tiefer" liegt, ist der Link von "xyz.html" auf "../xyz.html"
   zu ändern.
 - Manuela hat vorgeschlagen, die männliche und weibliche Form abwechselnd zu nutzen
+
+
+Ja aber wenn man das "du" anstatt das "Sie" uebersetzt, dann ist es nicht weiblich noch maennlich. 
+
+An den Links soll man sich nicht stoeren, denn das System sucht immer zuerst im eigenen Verzeichnis. Erst wenn Explizit darauf hingewiesen wird, wird in andere Verzeichnisse verlinkt. 
+
+Deshalb koennen die Namen der Dateien auch so gelassen werden wie sie hier stehen. 
+
+
+(zongoku).
+
+
