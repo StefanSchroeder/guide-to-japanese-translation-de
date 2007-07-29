@@ -9,14 +9,6 @@ Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier 
 Staffel 4  "Wesentliche Grammatik":
 ====================================
 
-Wer hat noch was in Staffel 4 zu uebersetzen?
-----------------------------------------
-
-Daniel:
-wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - Daniel, 70% fertig
-
-
-
 Fertig uebersetzt von Staffel 4.
 --------------------------------
 potential.html (Die Potentialform) 100% zongoku.
@@ -32,7 +24,7 @@ favor.html (Geben und nehmen) 100% zongoku
 requests.html (Bitten und auffordern) 100% zongoku.
 numbers.html (Zahlen und Z0 hlen) 100% 2 durchgelesen zongoku.
 enduring.html (Andere Anwendungen der te-Form) 100% zongoku.
-
+wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - 100% Daniel
 
 ______________________________________________________________
 Staffel 5
@@ -47,7 +39,7 @@ genericnoun.html 100% zongoku.
 certainty.html 100% zongoku.
 amount.html 100% von zongoku.
 similar.html 100% von zongoku.
-compare.html 100% von zongoku. 
+compare.html 100% von zongoku.
 easyhard.html 100% von zongoku.
 negverb2.html 100% von zongoku.
 reasoning.html 100% von zongoku.
@@ -105,5 +97,5 @@ Staffel 7
 =========
 misc.html
 casual.html
-Kansai DialectVarious Conjugation Charts
-
+Kansai Dialect
+Various Conjugation Charts
