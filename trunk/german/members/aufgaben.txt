@@ -50,11 +50,7 @@ nochange.html 100% von zongoku.
 Noch zu uebersetzen von Staffel 5?
 ----------------------------------
 Zongoku:
-causepass.html Kausativ-Passiv
-Ich uebernehme deine Seite, damit diese Staffel auch fertig wird.
-
-Rootnode nobunaga:
-causepass.html Kausativ-Passiv
+causepass.html Kausativ-Passiv 50% erledigt.
 
 
 
@@ -78,12 +74,20 @@ othergrammar.html
 Wer uebersetzt was in Staffel 6?
 --------------------------------
 
+Daniel:
 
+
+
+-------------
 Zongoku:
+
 
 
 -------------
 Rootnode nobunaga:
+
+
+
 
 -------------
 Genetix:
@@ -91,6 +95,13 @@ Genetix:
 
 
 
+-------------
+Stefan Schroeder.
+
+
+
+
+--------------
 
 =======================
 Staffel 7
