@@ -6,11 +6,8 @@ etc. auf "fremden" Seiten korrigieren darf usw.
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
 
-Staffel 4  "Wesentliche Grammatik":
+Staffel 4  "Wesentliche Grammatik": ist fertig uebersetzt.
 ====================================
-
-Fertig uebersetzt von Staffel 4.
---------------------------------
 potential.html (Die Potentialform) 100% zongoku.
 haveto.html (Formulierung von "muessen") 100% zongoku.
 conditional.html (Bedingungen) - 100% zongoku.
@@ -27,12 +24,10 @@ enduring.html (Andere Anwendungen der te-Form) 100% zongoku.
 wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - 100% Daniel
 
 ______________________________________________________________
-Staffel 5
-==========
-
-Fertig Uebersetzt von Staffel 5:
-================================
+Staffel 5 ist fertig uebersetzt.
+===============================
 specialexp.html 100% fertig 10% von zongoku 90% von nobunaga.
+causepass.html Kausativ-Passiv 100% zongoku.
 honorhum.html 100% zongoku.
 unintended.html 100% zongoku.
 genericnoun.html 100% zongoku.
@@ -47,22 +42,11 @@ timeaction2.html 100% von zongoku.
 nochange.html 100% von zongoku.
 
 
-Noch zu uebersetzen von Staffel 5?
-----------------------------------
-Zongoku:
-causepass.html Kausativ-Passiv 70% erledigt.
-
-
 
 Alle Dateien wurden auf Rechtschreibung ueberprueft.
 --------------------------------
 Staffel 6
 =========
-advanced.html
-formal.html
-should.html
-even.html
-signs.html
 feasibility.html
 tendency.html
 adv_volitional.html
@@ -80,6 +64,11 @@ Daniel:
 
 -------------
 Zongoku:
+advanced.html
+formal.html
+should.html
+even.html
+signs.html
 
 
 
