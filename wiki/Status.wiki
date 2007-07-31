@@ -1,4 +1,4 @@
-#Übersicht des Projekt-Status und Planung
+#summary Übersicht des Projekt-Status und Planung
 
 = Staffel 4 - Wesentliche Grammatik = 
 
