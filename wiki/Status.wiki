@@ -1,0 +1,42 @@
+#Übersicht des Projekt-Status und Planung
+
+= Staffel 4 - Wesentliche Grammatik = 
+
+== Komplett ==
+
+|| Dateiname || Deutscher Titel || Fortschritt || Übersetzer ||
+|| potential.html ||  (Die Potentialform) || 100% ||  zongoku ||
+|| haveto.html ||  (Formulierung von "muessen") || 100% ||  zongoku ||
+|| conditional.html ||  (Bedingungen) - || 100% ||  zongoku ||
+|| surunaru.html ||  (Die Verwendung von suru und naru) || 100% ||  zongoku ||
+|| desire.html ||  (Wuenschen und vorschlagen) || 100% ||  zongoku ||
+|| quotation.html ||  (Durchfuehren einer Aktion auf einem Nebensatz) || 100% ||  zongoku ||
+|| define.html ||  (Definitionen) || 100% ||  zongoku ||
+|| try.html ||  (Etwas ausprobieren oder zu versuchen, etwas zu tun) || 100% ||  zongoku ||
+|| favor.html ||  (Geben und nehmen) || 100% ||  zongoku ||
+|| requests.html ||  (Bitten und auffordern) || 100% ||  zongoku ||
+|| numbers.html ||  (Zahlen und Zählen) || 100% ||  2 durchgelesen zongoku ||
+|| enduring.html ||  (Andere Anwendungen der te-Form) || 100% ||  zongoku ||
+|| wrapup4.html ||  (Abschluß des 4. Teils und weiteres Gobi) - || 100% ||  Daniel ||
+
+= Staffel 5 - = 
+
+== Komplett ==
+
+|| specialexp.html || Spezielle Ausdrücke || 100% || 10% zongoku 90% nobunaga ||
+|| causepass.html || Kausativ-Passiv || 100% ||  zongoku ||
+|| honorhum.html || - || 100% ||  zongoku ||
+|| unintended.html || - || 100% ||  zongoku ||
+|| genericnoun.html || - || 100% ||  zongoku ||
+|| certainty.html || - || 100% ||  zongoku ||
+|| amount.html || - || 100% ||  zongoku ||
+|| similar.html || - || 100% ||  zongoku ||
+|| compare.html || - || 100% ||  zongoku ||
+|| easyhard.html || - || 100% ||  zongoku ||
+|| negverb2.html || - || 100% ||  zongoku ||
+|| reasoning.html || - || 100% ||  zongoku ||
+|| timeaction2.html || - || 100% ||  zongoku ||
+|| nochange.html || - || 100% ||  zongoku ||
+
+
+
