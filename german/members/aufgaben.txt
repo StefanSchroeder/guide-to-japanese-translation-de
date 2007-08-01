@@ -1,3 +1,23 @@
+
+
+
+
+# Diese Datei wurde am 1.8.2007 von ondekoza ins Wiki migriert.
+# Bitte dort aendern.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Hallo, hier ist die Liste aller zu Uebersetzenden Seiten.
 Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
 Uebersetzer fuer die Seite sein wollt. Das heißt nicht, dass man keine Fehler
