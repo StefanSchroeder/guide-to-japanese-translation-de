@@ -67,6 +67,8 @@ Alle Dateien wurden auf Rechtschreibung ueberprueft.
 --------------------------------
 Staffel 6
 =========
+advanced.html 100% von zongoku.
+
 feasibility.html
 tendency.html
 adv_volitional.html
@@ -84,7 +86,7 @@ Daniel:
 
 -------------
 Zongoku:
-advanced.html
+
 formal.html
 should.html
 even.html
