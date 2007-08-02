@@ -1,22 +1,5 @@
-
-
-
-
 # Diese Datei wurde am 1.8.2007 von ondekoza ins Wiki migriert.
 # Bitte dort aendern.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Hallo, hier ist die Liste aller zu Uebersetzenden Seiten.
 Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
@@ -68,6 +51,11 @@ Alle Dateien wurden auf Rechtschreibung ueberprueft.
 Staffel 6
 =========
 advanced.html 100% von zongoku.
+formal.html 100% von zongoku.
+
+
+
+
 
 feasibility.html
 tendency.html
@@ -87,7 +75,7 @@ Daniel:
 -------------
 Zongoku:
 
-formal.html
+
 should.html
 even.html
 signs.html
