@@ -57,6 +57,7 @@ advanced.html 100% von zongoku. Diese Hilfen sind hier auch hingestellt worden u
 formal.html 100% von zongoku.
 should.html 100% von zongoku, Hier sollt ihr mal euch ansehen wie eine Seite mit Rikai und megane uebersetzt werden.  
 even.html 100% von zongoku.
+signs.html 100% von zongoku.
 
 
 Noch zu uebersetzen
@@ -78,8 +79,8 @@ Daniel:
 
 
 -------------
-Zongoku:
-signs.html
+Zongoku macht Urlaub. 
+
 
 
 
