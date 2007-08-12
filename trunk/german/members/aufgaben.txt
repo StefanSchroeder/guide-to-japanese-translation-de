@@ -76,10 +76,11 @@ covered.html
 close_actions.html
 othergrammar.html
 
-Es fehlen
+
+
+Es fehlen 
 Site_index.html
-conjchart.html fehlt. wurde bei kansaiben angefuegt.
-completeguide.html fehlt.
+completeguide.html fehlt. Ist wohl saemtliche Seiten aneinander gehaengt.
 changelog.html fehlt, (ob diese aber benotigt wird ist fraglich?).
 
 
@@ -126,5 +127,6 @@ Staffel 7 ist fertig uebersetzt.
 misc.html 100% zongoku.
 casual.htm l100% zongoku.
 Kansai Dialect 100% zongoku.
-Various Conjugation Charts (gibt es nicht oder noch nicht).
+conjchart.html wurde bei kansaiben angefuegt. 100% zongoku.
+Kansai_wiki ist das Gleiche wie Kansai-Dialekt.
 
