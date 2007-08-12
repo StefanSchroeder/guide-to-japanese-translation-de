@@ -105,9 +105,10 @@ Stefan Schroeder.
 --------------
 
 =======================
-Staffel 7
+Staffel 7 ist fertig uebersetzt.
 =========
-misc.html
-casual.html
-Kansai Dialect
-Various Conjugation Charts
+misc.html 100% zongoku.
+casual.htm l100% zongoku.
+Kansai Dialect 100% zongoku.
+Various Conjugation Charts (gibt es nicht oder noch nicht).
+
