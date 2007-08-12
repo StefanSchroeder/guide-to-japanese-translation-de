@@ -8,6 +8,12 @@ etc. auf "fremden" Seiten korrigieren darf usw.
 
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
+Staffel 1 fehlende Datei eingebunden.
+Translations.html wurde von mir eingebunden und schon zu 100% von zongoku uebersetzt.
+
+
+
+
 
 Staffel 4  "Wesentliche Grammatik": ist fertig uebersetzt.
 ====================================
@@ -69,6 +75,16 @@ adv_volitional.html
 covered.html
 close_actions.html
 othergrammar.html
+
+Es fehlen
+Site_index.html
+conjchart.html fehlt. wurde bei kansaiben angefuegt.
+completeguide.html fehlt.
+changelog.html fehlt, (ob diese aber benotigt wird ist fraglich?).
+
+
+
+
 
 
 Wer uebersetzt was in Staffel 6?
