@@ -64,7 +64,7 @@ formal.html 100% von zongoku.
 should.html 100% von zongoku, Hier sollt ihr mal euch ansehen wie eine Seite mit Rikai und megane uebersetzt werden.  
 even.html 100% von zongoku.
 signs.html 100% von zongoku.
-
+othergrammar.html 100% von zongoku.
 
 Noch zu uebersetzen
 ===================
@@ -74,15 +74,18 @@ tendency.html
 adv_volitional.html
 covered.html
 close_actions.html
-othergrammar.html
+
 
 
 
 Es fehlen 
-Site_index.html
-completeguide.html fehlt. Ist wohl saemtliche Seiten aneinander gehaengt.
-changelog.html fehlt, (ob diese aber benotigt wird ist fraglich?).
+Site_index.html sollte alle behandelten Themen beinhalten  die im Guide vorkommen. Aber wenn man die Seite completeguide erstellt, kann diese Seite vergessen werden. 
 
+Mit CTRL-f kann man nach Suchbegriffen viel leichter suchen.
+completeguide.html fehlt. Ist wohl saemtliche Seiten aneinander gehaengt.
+
+
+changelog.html fehlt, (diese Seite wird nicht benoetigt, da Tae Kim hier ein Tagebuch fuehrt was er wann gemacht hat.
 
 
 
