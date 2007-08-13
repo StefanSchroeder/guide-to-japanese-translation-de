@@ -9,7 +9,7 @@ etc. auf "fremden" Seiten korrigieren darf usw.
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
 Staffel 1 fehlende Datei eingebunden.
-Translations.html wurde von mir eingebunden und schon zu 100% von zongoku uebersetzt.
+Translations.html wurde von mir eingebunden und schon zu 100% von  uebersetzt.
 
 
 
@@ -17,38 +17,38 @@ Translations.html wurde von mir eingebunden und schon zu 100% von zongoku uebers
 
 Staffel 4  "Wesentliche Grammatik": ist fertig uebersetzt.
 ====================================
-potential.html (Die Potentialform) 100% zongoku.
-haveto.html (Formulierung von "muessen") 100% zongoku.
-conditional.html (Bedingungen) - 100% zongoku.
-surunaru.html (Die Verwendung von suru und naru) 100% zongoku.
-desire.html (Wuenschen und vorschlagen) 100% zongoku.
-quotation.html (Durchfuehren einer Aktion auf einem Nebensatz) 100% zongoku.
-define.html (Definitionen) 100% zongoku.
-try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun) 100% zongoku
-favor.html (Geben und nehmen) 100% zongoku
+potential.html (Die Potentialform) 100%
+haveto.html (Formulierung von "muessen") 100%
+conditional.html (Bedingungen) - 100%
+surunaru.html (Die Verwendung von suru und naru) 100%
+desire.html (Wuenschen und vorschlagen) 100%
+quotation.html (Durchfuehren einer Aktion auf einem Nebensatz) 100%
+define.html (Definitionen) 100%
+try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun) 100% 
+favor.html (Geben und nehmen) 100% 
 Übrigens hatte eine Datei gefehlt die ich vom Englischen in den Deutschen Trakt rueberkopiert habe.
-requests.html (Bitten und auffordern) 100% zongoku.
-numbers.html (Zahlen und Z0 hlen) 100% 2 durchgelesen zongoku.
-enduring.html (Andere Anwendungen der te-Form) 100% zongoku.
+requests.html (Bitten und auffordern) 100%
+numbers.html (Zahlen und Z0 hlen) 100% 2 durchgelesen
+enduring.html (Andere Anwendungen der te-Form) 100%
 wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - 100% Daniel
 
 ______________________________________________________________
 Staffel 5 ist fertig uebersetzt.
 ===============================
-specialexp.html 100% fertig 10% von zongoku 90% von nobunaga.
-causepass.html Kausativ-Passiv 100% zongoku.
-honorhum.html 100% zongoku.
-unintended.html 100% zongoku.
-genericnoun.html 100% zongoku.
-certainty.html 100% zongoku.
-amount.html 100% von zongoku.
-similar.html 100% von zongoku.
-compare.html 100% von zongoku.
-easyhard.html 100% von zongoku.
-negverb2.html 100% von zongoku.
-reasoning.html 100% von zongoku.
-timeaction2.html 100% von zongoku.
-nochange.html 100% von zongoku.
+specialexp.html 100% fertig 10% von  90% von nobunaga.
+causepass.html Kausativ-Passiv 100%
+honorhum.html 100%
+unintended.html 100%
+genericnoun.html 100%
+certainty.html 100%
+amount.html 100%
+similar.html 100%
+compare.html 100%
+easyhard.html 100%
+negverb2.html 100%
+reasoning.html 100%
+timeaction2.html 100%
+nochange.html 100%
 
 
 
@@ -58,13 +58,15 @@ Staffel 6
 =========
 Fertig uebersetzt.
 
-advanced.html 100% von zongoku. Diese Hilfen sind hier auch hingestellt worden und alle folgenden Seiten von Staffel 6 und 7 bekommen einen Link zu  der advanced.html.  Wenn Ihr meint dass  dies nicht noetig ist, koennt ihr das ja wieder  loeschen. Ich habe es hineingebracht, da von hier aus, keine Uebersetzungen mehr fuer Kanji und Kana vorhanden sind.
+advanced.html 100% Diese Hilfen sind hier auch hingestellt worden und alle folgenden Seiten von Staffel 6 und 7 bekommen einen Link zu  der advanced.html.  Wenn Ihr meint dass  dies nicht noetig ist, koennt ihr das ja wieder  loeschen. Ich habe es hineingebracht, da von hier aus, keine Uebersetzungen mehr fuer Kanji und Kana vorhanden sind.
 
-formal.html 100% von zongoku.
-should.html 100% von zongoku, Hier sollt ihr mal euch ansehen wie eine Seite mit Rikai und megane uebersetzt werden.  
-even.html 100% von zongoku.
-signs.html 100% von zongoku.
-othergrammar.html 100% von zongoku.
+formal.html 100%
+should.html 100% von , Hier sollt ihr mal euch ansehen wie eine Seite mit Rikai und megane uebersetzt werden.  
+even.html 100%
+signs.html 100%
+othergrammar.html 100%
+covered.html 100%
+
 
 Noch zu uebersetzen
 ===================
@@ -72,7 +74,7 @@ Noch zu uebersetzen
 feasibility.html
 tendency.html
 adv_volitional.html
-covered.html
+
 close_actions.html
 
 
@@ -99,7 +101,7 @@ Daniel:
 
 
 -------------
-Zongoku macht Urlaub. 
+ macht Urlaub. 
 
 
 
@@ -127,9 +129,9 @@ Stefan Schroeder.
 =======================
 Staffel 7 ist fertig uebersetzt.
 =========
-misc.html 100% zongoku.
-casual.htm l100% zongoku.
-Kansai Dialect 100% zongoku.
-conjchart.html wurde bei kansaiben angefuegt. 100% zongoku.
+misc.html 100%
+casual.htm l100%
+Kansai Dialect 100%
+conjchart.html wurde bei kansaiben angefuegt. 100%
 Kansai_wiki ist das Gleiche wie Kansai-Dialekt.
 
