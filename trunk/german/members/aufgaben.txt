@@ -75,7 +75,7 @@ Noch zu uebersetzen
 
 feasibility.html
 tendency.html
-adv_volitional.html
+adv_volitional.html 
 
 
 
@@ -133,7 +133,9 @@ Staffel 7 ist fertig uebersetzt.
 =========
 misc.html 100%
 casual.htm l100%
-Kansai Dialect 100%
+Kansai Dialect 100% ZEIGT SOVIELE FEHLER AUF, DA SOLLTE KIM TAE DOCH MAL NACH DEM RECHTEN SEHEN. ICH HABE DIE THEMEN GELOESCHT SIEHE INHALT, DA DIESE IN ADV_VOLITIONAL.HTML BEREITS EERKLAERT WURDEN.
+
+
 conjchart.html wurde bei kansaiben angefuegt. 100%
 Kansai_wiki ist das Gleiche wie Kansai-Dialekt.
 
