@@ -64,9 +64,11 @@ formal.html 100%
 should.html 100% von , Hier sollt ihr mal euch ansehen wie eine Seite mit Rikai und megane uebersetzt werden.  
 even.html 100%
 signs.html 100%
+
+
 othergrammar.html 100%
 covered.html 100%
-
+close_actions.html 100%
 
 Noch zu uebersetzen
 ===================
@@ -75,7 +77,7 @@ feasibility.html
 tendency.html
 adv_volitional.html
 
-close_actions.html
+
 
 
 
