@@ -1,18 +1,42 @@
 # Diese Datei wurde am 1.8.2007 von ondekoza ins Wiki migriert.
 # Bitte dort aendern.
 
-Hallo, hier ist die Liste aller zu Uebersetzenden Seiten.
+
+Am 15.August 2007 habe ich zongoku, die letzte Seite uebersetzt.  
+Das Probelesen ueberlass ich aber lieber denen die dieses am besten koennen. Ich bin kein Dr. Dr. und auch kein Dr.  
+Und ich bin kein Muttersprachler. Aber ich habe etwas feriggebracht, dass das Projekt mit seinen Restlichen +/- 40 Seiten fertig uebersetzt wurde.  
+
+Eine Arbeit die bisher 2 Jahre in Anspruch genommen hat.
+Darauf bin ich als kleiner Telefonist stolz drauf (der kein Gymnasium, kein Abitur, und keine Universitaet besucht hat).
+
+Ich wuensche nun viel Spass beim Fehler auffinden, eher Satzstrukturen verbessern.
+
+zongoku.
+
+------------------------------
+ 
+
+
+
+
+
+
+
+Hallo, hier ist die Liste aller zu Lesekorrektur befindlichen Seiten.
 Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
 Uebersetzer fuer die Seite sein wollt. Das heißt nicht, dass man keine Fehler
 etc. auf "fremden" Seiten korrigieren darf usw.
 
 Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
 
+
+
+
+
+
 Staffel 1 fehlende Datei eingebunden.
+-------------------------------------
 Translations.html wurde von mir eingebunden und schon zu 100% von  uebersetzt.
-
-
-
 
 
 Staffel 4  "Wesentliche Grammatik": ist fertig uebersetzt.
@@ -64,24 +88,14 @@ formal.html 100%
 should.html 100% von , Hier sollt ihr mal euch ansehen wie eine Seite mit Rikai und megane uebersetzt werden.  
 even.html 100%
 signs.html 100%
-
+feasibility.html
 tendency.html
 adv_volitional.html 100%
 othergrammar.html 100%
 covered.html 100%
 close_actions.html 100%
 
-Noch zu uebersetzen
-===================
-feasibility.html
-
-
-
-
-
-
-
-
+---------------------------
 Es fehlen 
 Site_index.html sollte alle behandelten Themen beinhalten  die im Guide vorkommen. Aber wenn man die Seite completeguide erstellt, kann diese Seite vergessen werden. 
 
@@ -91,21 +105,24 @@ completeguide.html fehlt. Ist wohl saemtliche Seiten aneinander gehaengt.
 
 changelog.html fehlt, (diese Seite wird nicht benoetigt, da Tae Kim hier ein Tagebuch fuehrt was er wann gemacht hat.
 
+=======================
+Staffel 7 ist fertig uebersetzt.
+=========
+misc.html 100%
+casual.htm l100%
+Kansai Dialect 100% ZEIGT SOVIELE FEHLER AUF, DA SOLLTE KIM TAE DOCH MAL NACH DEM RECHTEN SEHEN. ICH HABE DIE THEMEN GELOESCHT SIEHE INHALT, DA DIESE IN ADV_VOLITIONAL.HTML BEREITS EERKLAERT WURDEN.
+conjchart.html wurde bei kansaiben angefuegt. 100%
+Kansai_wiki ist das Gleiche wie Kansai-Dialekt.
 
 
 
 
-Wer uebersetzt was in Staffel 6?
+
+
+Wer macht noch Korrekturlesen von was?
 --------------------------------
 
 Daniel:
-
-
-
--------------
- macht Urlaub. 
-
-
 
 
 -------------
@@ -113,29 +130,14 @@ Rootnode nobunaga:
 
 
 
-
 -------------
 Genetix:
-
-
 
 
 -------------
 Stefan Schroeder.
 
 
-
-
 --------------
 
-=======================
-Staffel 7 ist fertig uebersetzt.
-=========
-misc.html 100%
-casual.htm l100%
-Kansai Dialect 100% ZEIGT SOVIELE FEHLER AUF, DA SOLLTE KIM TAE DOCH MAL NACH DEM RECHTEN SEHEN. ICH HABE DIE THEMEN GELOESCHT SIEHE INHALT, DA DIESE IN ADV_VOLITIONAL.HTML BEREITS EERKLAERT WURDEN.
-
-
-conjchart.html wurde bei kansaiben angefuegt. 100%
-Kansai_wiki ist das Gleiche wie Kansai-Dialekt.
 
