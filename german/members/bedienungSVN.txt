@@ -63,3 +63,22 @@ ausreichend. Nach Schließen des Editors kommt die Anzeige
   a)bort, c)ontinue, e)dit
 Dann Option c auswählen.
 
+TortoiseSVN (Windows)
+===================
+http://tortoisesvn.tigris.org/
+
+Im Explorer an der gewünschten Stelle ein Verzeichnis erstellen. 
+Im Kontextmenü (rechte Maustaste) SVN checkout wählen.
+URL of Repository:
+   als Gast (Lesezugriff): http://guide-to-japanese-translation-de.googlecode.com/svn/trunk
+   als Member (Lesen + Schreiben): https://guide-to-japanese-translation-de.googlecode.com/svn/trunk
+Checkout Directory sollte dein neues Verzeichnis sein.
+Revision is HEAD
+<OK>
+Als Member sollte er nach dem Passwort fragen. Das Passwort ist mit deinem GMail-Account verknüpft 
+(das du vorher anlegen und mir mitteilen musst - das Account, nicht das Passwort :-)
+Danach sollte er die Dateien überspielen. 
+Die CVS Befehle (wie oben beschrieben) sind jetzt im Explorer Kontextmenü verfügbar.
+Zusätzlich wird der Status der Dateien durch ein Mini-Icon angezeigt.
+Wenn du z.B. etwas geändert hast, ist es ein rotes ! usw.
+
