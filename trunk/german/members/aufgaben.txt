@@ -2,14 +2,14 @@
 # Bitte dort aendern.
 
 
-Am 15.August 2007 habe ich zongoku, die letzte Seite uebersetzt.  
-Das Probelesen ueberlass ich aber lieber denen die dieses am besten koennen. Ich bin kein Dr. Dr. und auch kein Dr.  
-Und ich bin kein Muttersprachler. Aber ich habe etwas feriggebracht, dass das Projekt mit seinen Restlichen +/- 40 Seiten fertig uebersetzt wurde.  
+Am 15.August 2007 wurde die letzte Seite uebersetzt.  
+Das Probelesen ueberlass ich aber lieber denen die dieses am besten koennen, da ich bin kein Muttersprachler bin.
 
-Eine Arbeit die bisher 2 Jahre in Anspruch genommen hat.
-Darauf bin ich als kleiner Telefonist stolz drauf (der kein Gymnasium, kein Abitur, und keine Universitaet besucht hat).
+Heute ist nun der 28 April 2008.
+Leider sieht es so aus, als ob es nicht mehr weitergeht. 
+Schade fuer die viele Muehe.
 
-Ich wuensche nun viel Spass beim Fehler auffinden, eher Satzstrukturen verbessern.
+
 
 zongoku.
 
@@ -17,85 +17,6 @@ zongoku.
  
 
 
-
-
-
-
-
-Hallo, hier ist die Liste aller zu Lesekorrektur befindlichen Seiten.
-Einfach euren Namen dahinterschreiben, wenn ihr der "hauptverantwortliche"
-Uebersetzer fuer die Seite sein wollt. Das heißt nicht, dass man keine Fehler
-etc. auf "fremden" Seiten korrigieren darf usw.
-
-Wenn ihr andere Sachen macht (z.B. Probelesen Abschnitt xyz), könnt ihr es hier auch eintragen.
-
-
-
-
-
-
-Staffel 1 fehlende Datei eingebunden.
--------------------------------------
-Translations.html wurde von mir eingebunden und schon zu 100% von  uebersetzt.
-
-
-Staffel 4  "Wesentliche Grammatik": ist fertig uebersetzt.
-====================================
-potential.html (Die Potentialform) 100%
-haveto.html (Formulierung von "muessen") 100%
-conditional.html (Bedingungen) - 100%
-surunaru.html (Die Verwendung von suru und naru) 100%
-desire.html (Wuenschen und vorschlagen) 100%
-quotation.html (Durchfuehren einer Aktion auf einem Nebensatz) 100%
-define.html (Definitionen) 100%
-try.html (Etwas ausprobieren oder zu versuchen, etwas zu tun) 100% 
-favor.html (Geben und nehmen) 100% 
-Übrigens hatte eine Datei gefehlt die ich vom Englischen in den Deutschen Trakt rueberkopiert habe.
-requests.html (Bitten und auffordern) 100%
-numbers.html (Zahlen und Z0 hlen) 100% 2 durchgelesen
-enduring.html (Andere Anwendungen der te-Form) 100%
-wrapup4.html (Abschluß des 4. Teils und weiteres Gobi) - 100% Daniel
-
-______________________________________________________________
-Staffel 5 ist fertig uebersetzt.
-===============================
-specialexp.html 100% fertig 10% von  90% von nobunaga.
-causepass.html Kausativ-Passiv 100%
-honorhum.html 100%
-unintended.html 100%
-genericnoun.html 100%
-certainty.html 100%
-amount.html 100%
-similar.html 100%
-compare.html 100%
-easyhard.html 100%
-negverb2.html 100%
-reasoning.html 100%
-timeaction2.html 100%
-nochange.html 100%
-
-
-
-Alle Dateien wurden auf Rechtschreibung ueberprueft.
---------------------------------
-Staffel 6
-=========
-Fertig uebersetzt.
-
-advanced.html 100% Diese Hilfen sind hier auch hingestellt worden und alle folgenden Seiten von Staffel 6 und 7 bekommen einen Link zu  der advanced.html.  Wenn Ihr meint dass  dies nicht noetig ist, koennt ihr das ja wieder  loeschen. Ich habe es hineingebracht, da von hier aus, keine Uebersetzungen mehr fuer Kanji und Kana vorhanden sind.
-
-formal.html 100%
-should.html 100% von , Hier sollt ihr mal euch ansehen wie eine Seite mit Rikai und megane uebersetzt werden.  
-even.html 100%
-signs.html 100%
-feasibility.html
-tendency.html
-adv_volitional.html 100%
-othergrammar.html 100%
-covered.html 100%
-close_actions.html 100%
-
----------------------------
 Es fehlen 
 Site_index.html sollte alle behandelten Themen beinhalten  die im Guide vorkommen. Aber wenn man die Seite completeguide erstellt, kann diese Seite vergessen werden. 
 
@@ -104,40 +25,4 @@ completeguide.html fehlt. Ist wohl saemtliche Seiten aneinander gehaengt.
 
 
 changelog.html fehlt, (diese Seite wird nicht benoetigt, da Tae Kim hier ein Tagebuch fuehrt was er wann gemacht hat.
-
-=======================
-Staffel 7 ist fertig uebersetzt.
-=========
-misc.html 100%
-casual.htm l100%
-Kansai Dialect 100% ZEIGT SOVIELE FEHLER AUF, DA SOLLTE KIM TAE DOCH MAL NACH DEM RECHTEN SEHEN. ICH HABE DIE THEMEN GELOESCHT SIEHE INHALT, DA DIESE IN ADV_VOLITIONAL.HTML BEREITS EERKLAERT WURDEN.
-conjchart.html wurde bei kansaiben angefuegt. 100%
-Kansai_wiki ist das Gleiche wie Kansai-Dialekt.
-
-
-
-
-
-
-Wer macht noch Korrekturlesen von was?
---------------------------------
-
-Daniel:
-
-
--------------
-Rootnode nobunaga:
-
-
-
--------------
-Genetix:
-
-
--------------
-Stefan Schroeder.
-
-
---------------
-
 
