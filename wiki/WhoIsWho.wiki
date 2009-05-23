@@ -1,12 +1,12 @@
 #summary Übersicht über die Projektmitglieder
 
-=Daniel, 33=
+=Daniel, 35=
 
-Java-Programmierer, z.Z. in Detroit.
+Java-Programmierer
 
 Pseudonym: Landei
 
-Foren: Japanisch-Netzwerk, GrammarGuide, JLPTStudy, JMonkeyEngine, SharedTalk
+Foren: Japanisch-Netzwerk, GrammarGuide, JLPTStudy, JMonkeyEngine
 
 
 =Anja, 27=
@@ -39,6 +39,4 @@ Erreichbar: 322397903 (ICQ), simon.wollwage@jabber.rwth-aachen.de (Jabber)
 Dipl.Phys./SW-Entwickler
 
 Pseudonym: ondekoza
-
-
 
